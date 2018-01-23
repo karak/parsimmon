@@ -1,0 +1,16 @@
+{
+  "env": {
+    "node": true
+  },
+  "globals":{
+    "Parsimmon": true,
+    "assert": true,
+    "suite": true,
+    "setup": true,
+    "teardown": true,
+    "test": true,
+    "Promise": true,
+    "runBenchmark": true,
+    "printBenchmark": true
+  }
+}

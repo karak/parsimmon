@@ -5,3 +5,4 @@ npm-*.log
 coverage
 .DS_Store
 .vscode
+benchmark/results/
