@@ -3,3 +3,4 @@
 --ui tdd
 --timeout 60000
 ./benchmark/src/core/*.js
+./benchmark/src/examples/*.js
